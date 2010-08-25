@@ -1,0 +1,9 @@
+A little tool for generating a PDF in order to be able to print addresses onto C5 envelopes.
+
+Reads addresses from a CSV file named addresses.csv.
+
+addresses.csv should have the following columns:
+* name
+* company [optional]
+* street address
+* postal address
